@@ -1,5 +1,5 @@
 # laba2
-# lol
+/lol
 # index.html
 # 1.HTML
 1.css
